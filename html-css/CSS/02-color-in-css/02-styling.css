@@ -1,0 +1,36 @@
+/*
+1) COLOR-NAME
+we can change color using the name of the color.
+*/
+body{
+    background-color: black;
+}
+h1{
+    color:bisque;
+}
+
+/*
+2) HEX
+written in #------ format
+*/
+#p01{
+    color: #b58b88;
+}
+
+/*
+3) RGB
+written in rgb(---, ---, ---) format
+*/
+#p02{ 
+    color: rgb(149, 142, 97);
+}
+#p03{
+    color: rgb(115, 148, 111);
+}
+/*
+4) HSL
+written in the format (---, --%, --%) format
+*/
+#p04{
+    color: hsl(245, 25%, 54%);
+}

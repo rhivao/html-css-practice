@@ -1,0 +1,22 @@
+/*external CSS*/
+body{
+    background-color: #1d1d1d;
+}
+#heading01{
+    color: #396c03;
+}
+.para{
+    color: #d8d92e;
+}
+.heading01{
+    color: #ff4a01;
+}
+.heading02{
+    color: #ff8b00;
+}
+.list{
+    color: #575d14;
+}
+hr{
+    color: rgb(71, 67, 124);
+}
