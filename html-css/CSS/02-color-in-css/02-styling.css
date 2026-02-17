@@ -29,9 +29,10 @@ written in rgb(---, ---, ---) format
 }
 /*
 4) HSL
-written in the (---, --%, --%) format
+written in the hsl(---, --%, --%) format
 */
 #p04{
     color: hsl(245, 25%, 54%);
 }
+
 
