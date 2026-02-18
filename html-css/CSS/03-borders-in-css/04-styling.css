@@ -1,0 +1,99 @@
+body{
+    background-color: #282828;
+}
+h1{
+    color:rgb(255, 188, 188);
+    border-style: solid;
+    border-width: 10px;
+    border-color:rgb(61, 61, 112);
+    border-radius: 15px;
+}
+#p01{
+    color: rgb(230, 255, 200);
+    border: 5px dotted #e086ac; /*instead of writing 3 lines, we can sum up the properties in 1 line too but we cant add border-radius here (any kind of radius e.g. border-bottom-right-radius)*/
+}
+hr{
+    border: 3px dashed white;
+} /*we can decorate hr tag too with border properties*/
+h2{
+    color: #82f8a3;
+    border-style: dashed;
+    border-width: 5px;
+    border-color:rgb(230, 40, 227);
+    border-radius: 20px;
+}
+#p02{
+    color:rgb(117, 167, 206);
+    border: 10px groove #e9548a;
+}
+hr{
+    border: 3px dashed white;
+}
+h3{
+    color: #b53232;
+    border-style: double;
+    border-width: 10px;
+    border-color: #00764f;
+    border-radius: 20px; 
+}
+#p03{
+    color: #666666;
+    border: 10px ridge #cca2d2;
+}
+hr{
+    border: 3px dashed white;
+}
+h4{
+    color: #d27c20;
+    border-style: inset;
+    border-width: 7px;
+    border-color:#7cbea0;
+    border-radius: 5px;
+}
+#p04{
+    color: #44931d;
+    border: 10px outset #a21629;
+}
+hr{
+    border: 3px dashed white;
+}
+h5{
+    color: #854444;
+    border-bottom: 3px dotted #ff0303;
+    border-top: 3px dotted #ff0303;
+    border-left: 3px dashed #858ef4;
+    border-right: 3px dashed #858ef4;
+    border-bottom-right-radius: 20px;
+}
+#p05{
+    color: #f0abd9;
+    border-bottom: 7px double #cf7676;
+    border-top: 7px double #cf7676;
+    border-left: 5px solid #8fa550;
+    border-right: 5px solid #8fa550;
+    border-bottom-right-radius: 33px;
+    border-top-right-radius: 33px;
+}
+hr{
+    border: 3px dashed white;
+}
+h6{
+    color: #427550;
+    border-top: 5px inset #858ef4;
+    border-bottom: 5px inset #858ef4;
+    border-left: 5px outset #59f20d;
+    border-right: 5px outset #59f20d;
+    border-start-end-radius: 10px;
+    border-end-start-radius: 10px;
+}
+#p06{
+    color: #eafa05;
+    border-top: 10px ridge #b51a2f;
+    border-bottom: 10px ridge #b51a2f;
+    border-left: 10px ridge #2929be;
+    border-right: 10px ridge #2929be;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}

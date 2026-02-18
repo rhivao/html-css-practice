@@ -1,0 +1,30 @@
+#h01{
+    border-style: dotted;
+}
+#h02{
+    border-style: solid;
+}
+#h03{
+    border-style: hidden;
+}
+#h04{
+    border-style: none;
+}
+#h05{
+    border-style: dashed;
+}
+#h06{
+    border-style: double;
+}
+#h07{
+    border-style: groove;
+}
+#h08{
+    border-style: ridge;
+}
+#h09{
+    border-style: inset;
+}
+#h10{
+    border-style: outset;
+}
