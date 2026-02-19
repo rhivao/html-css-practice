@@ -1,0 +1,37 @@
+body{
+    background-color: #282828;
+}
+/*
+text-shadow:
+1)syntax->
+text-shadow: horizontal-offset vertical-offset blur color;
+
+2)horizontal offset
+positive: right
+negative: left
+
+3)vertical offset
+positive: down
+negative: up
+
+4)blur
+higher the value softer the shadow
+*/
+h1{
+    color: #fcb9b9;
+    text-shadow: 10px 10px 10px #ff7575;
+}
+/*
+multiple text-shadow property can be written in the below format, separated by a single comma.
+*/
+h2{
+    color: #f8b377;
+    text-shadow: 10px 10px 10px #ff9f4b, -10px -10px 10px #ce813e; 
+}
+/*
+for glowy effect
+*/
+h3{
+    color: #f1f688;
+    text-shadow: 0px 0px 10px #f1f688;
+}
